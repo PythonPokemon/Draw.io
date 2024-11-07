@@ -53,6 +53,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NQe4cCchVH00wDaqS5_d-20" value="Synchroner Aufruf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="290" y="168" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQe4cCchVH00wDaqS5_d-21" value="Asynchroner Aufruf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="285" y="138" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQe4cCchVH00wDaqS5_d-23" value="Rückgabe Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="280" y="198" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
