@@ -145,7 +145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-15" value="ProfileModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="36" y="890" width="324" height="1230" as="geometry" />
+          <mxGeometry x="36" y="890" width="324" height="1282" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-16" value="- day: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="26" width="324" height="26" as="geometry" />
@@ -258,35 +258,41 @@
         <mxCell id="_qg97PpUABtzxRQXxaGL-120" value="- sufferFromDiabetes: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="962" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-124" value="+ IsAverage: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-124" value="- relativeSuffersFromCVD: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="988" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-123" value="+ IsAverage: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-123" value="- chronicKidneyDisease: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1014" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-122" value="+ IsAverage: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-122" value="- sufferedAtrialFibrillation: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1040" width="324" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-129" value="- rheumatoidArthritis: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1066" width="324" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#0F8B8D;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
-          <mxGeometry y="1066" width="324" height="8" as="geometry" />
+          <mxGeometry y="1092" width="324" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-18" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
-          <mxGeometry y="1074" width="324" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-93" value="+ ReceivedBloodPressureTreatment: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1100" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-94" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-93" value="+ ReceivedBloodPressureTreatment: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1126" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-95" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-94" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1152" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-96" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-95" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1178" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-97" value="#&amp;nbsp;OnPropertyChanged(propertyName: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-96" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1204" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-97" value="#&amp;nbsp;OnPropertyChanged(propertyName: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1230" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-127" value="+ IsAverage: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1256" width="324" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-19" value="«interface»&lt;br&gt;&lt;b&gt;INotifyPropertyChanged&lt;/b&gt;&lt;div&gt;&lt;b&gt;+OnPropertyChanged(propertyName:string)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-190" y="576" width="270" height="50" as="geometry" />
