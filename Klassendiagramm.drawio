@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Seite-1" id="M7WiSfBKGMVoBvqlFQEr">
-    <mxGraphModel dx="1245" dy="508" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="556" grid="0" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,12 +145,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-15" value="ProfileModel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="36" y="890" width="324" height="1282" as="geometry" />
+          <mxGeometry x="36" y="890" width="324" height="2192" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-16" value="- day: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="26" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-58" value="-&amp;nbsp; month: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-58" value="- month: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="52" width="324" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-68" value="- year: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
@@ -273,26 +273,131 @@
         <mxCell id="_qg97PpUABtzxRQXxaGL-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=#0F8B8D;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1092" width="324" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-18" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-18" value="+ Day: int {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1100" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-93" value="+ ReceivedBloodPressureTreatment: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-93" value="+ Month: int {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1126" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-94" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-94" value="+ Year: int {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1152" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-95" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-95" value="+ DateTime DateOfBirth {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1178" width="324" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-96" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1204" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-97" value="#&amp;nbsp;OnPropertyChanged(propertyName: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-97" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1230" width="324" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="_qg97PpUABtzxRQXxaGL-127" value="+ IsAverage: bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+        <mxCell id="_qg97PpUABtzxRQXxaGL-130" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
           <mxGeometry y="1256" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-131" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1282" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-132" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1308" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-133" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1334" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-134" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1360" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-135" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1386" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-136" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1412" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-137" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1438" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-138" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1464" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-147" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1490" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-148" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1516" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-149" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1542" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-150" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1568" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-151" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1594" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-152" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1620" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-153" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1646" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-154" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1672" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-155" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1698" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-156" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1724" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-157" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1750" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-158" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1776" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-159" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1802" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-160" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1828" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-161" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1854" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-162" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1880" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-163" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1906" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-164" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1932" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-165" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1958" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-166" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="1984" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-167" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2010" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-168" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2036" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-169" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2062" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-170" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2088" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-171" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2114" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-172" value="+ HdlCholesterol: double {get; set;}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2140" width="324" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="_qg97PpUABtzxRQXxaGL-173" value="#&amp;nbsp;OnPropertyChanged(propertyName: string)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="_qg97PpUABtzxRQXxaGL-15">
+          <mxGeometry y="2166" width="324" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_qg97PpUABtzxRQXxaGL-19" value="«interface»&lt;br&gt;&lt;b&gt;INotifyPropertyChanged&lt;/b&gt;&lt;div&gt;&lt;b&gt;+OnPropertyChanged(propertyName:string)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-190" y="576" width="270" height="50" as="geometry" />
