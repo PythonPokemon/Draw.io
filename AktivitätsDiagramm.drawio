@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.9">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2884" dy="2346" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2631" dy="2019" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-32" value="Duschen" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="M63yjEkeoXS2i2Z2cCXG-26">
           <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M63yjEkeoXS2i2Z2cCXG-73" value="Verzweigung / ODER variante" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="M63yjEkeoXS2i2Z2cCXG-73" value="ODER | Verzweigung" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="440" y="-820" width="590" height="820" as="geometry" />
         </mxCell>
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-85" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#143642;" vertex="1" parent="M63yjEkeoXS2i2Z2cCXG-73">
@@ -440,7 +440,7 @@
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="M63yjEkeoXS2i2Z2cCXG-73" source="M63yjEkeoXS2i2Z2cCXG-96" target="M63yjEkeoXS2i2Z2cCXG-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M63yjEkeoXS2i2Z2cCXG-123" value="Verzweigung / UND Variante" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="M63yjEkeoXS2i2Z2cCXG-123" value="UND | Verzweigung" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-820" width="550" height="820" as="geometry" />
         </mxCell>
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="M63yjEkeoXS2i2Z2cCXG-123" source="M63yjEkeoXS2i2Z2cCXG-125" target="M63yjEkeoXS2i2Z2cCXG-141">
@@ -524,7 +524,7 @@
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.745;entryY=0.097;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="M63yjEkeoXS2i2Z2cCXG-123" source="M63yjEkeoXS2i2Z2cCXG-138" target="M63yjEkeoXS2i2Z2cCXG-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M63yjEkeoXS2i2Z2cCXG-153" value="Linear / mit Iteration" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+        <mxCell id="M63yjEkeoXS2i2Z2cCXG-153" value="Iteration" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
           <mxGeometry x="1120" y="-820" width="590" height="820" as="geometry" />
         </mxCell>
         <mxCell id="M63yjEkeoXS2i2Z2cCXG-154" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#143642;" vertex="1" parent="M63yjEkeoXS2i2Z2cCXG-153">
