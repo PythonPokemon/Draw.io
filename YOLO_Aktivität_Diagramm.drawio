@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="Seite-1" id="DFNLTvJq9VpUuVKCkXZx">
-    <mxGraphModel dx="3987" dy="4150" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-681" dy="1495" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxbMUShry3Oriru9tbwx-133" value="Iteration" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;startSize=26;" vertex="1" parent="1">
+        <mxCell id="cxbMUShry3Oriru9tbwx-133" value="Webanwendung" style="swimlane;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;startSize=26;" vertex="1" parent="1">
           <mxGeometry x="1904" y="-923" width="594" height="965" as="geometry" />
         </mxCell>
         <mxCell id="cxbMUShry3Oriru9tbwx-134" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#143642;" vertex="1" parent="cxbMUShry3Oriru9tbwx-133">
