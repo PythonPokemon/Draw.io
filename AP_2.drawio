@@ -475,7 +475,7 @@
           <mxGeometry x="-1790" y="-83.5" width="494.83" height="227" as="geometry" />
         </mxCell>
         <mxCell id="vIBM9WHqoXVI6_9nW_7u-1898" value="Server Message Block, ist ein Protokoll,&lt;div&gt;es ermöglich die gemeinsame nutzung von:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Dateien, Druckern und anderen Resourcen&lt;/div&gt;&lt;div&gt;in einem Netzwerk&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Entwickelt von Microsoft, Standard Protokoll&lt;/div&gt;&lt;div&gt;in Windows Netzwerken&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1275" y="101" width="260" height="110" as="geometry" />
+          <mxGeometry x="-1275" y="110" width="260" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
