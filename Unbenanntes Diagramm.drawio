@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="8619" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="8915" dy="1330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2160,19 +2160,19 @@
         <mxCell id="HRW-_dvOOKM905sK-crj-509" edge="1" parent="1" source="HRW-_dvOOKM905sK-crj-505" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" target="HRW-_dvOOKM905sK-crj-476">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-505" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Fertigungs-station&lt;/u&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-505" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Fertigungs-station_ID&lt;/u&gt;" vertex="1">
           <mxGeometry height="47" width="73.5" x="-6440.75" y="748" as="geometry" />
         </mxCell>
         <mxCell id="HRW-_dvOOKM905sK-crj-511" edge="1" parent="1" source="HRW-_dvOOKM905sK-crj-506" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" target="HRW-_dvOOKM905sK-crj-474">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-506" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Produkt_ID&lt;/u&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-506" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Mitarbeiter_ID&lt;/u&gt;" vertex="1">
           <mxGeometry height="47" width="73.5" x="-6786.75" y="567" as="geometry" />
         </mxCell>
         <mxCell id="HRW-_dvOOKM905sK-crj-510" edge="1" parent="1" source="HRW-_dvOOKM905sK-crj-507" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" target="HRW-_dvOOKM905sK-crj-477">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-507" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Produkt_ID&lt;/u&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-507" parent="1" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=10;" value="&lt;u&gt;Fertigungs-strasse_ID&lt;/u&gt;" vertex="1">
           <mxGeometry height="47" width="73.5" x="-6440.75" y="313" as="geometry" />
         </mxCell>
         <mxCell id="HRW-_dvOOKM905sK-crj-512" edge="1" parent="1" source="HRW-_dvOOKM905sK-crj-508" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontColor=#143642;fillColor=#FAE5C7;endArrow=none;endFill=0;" target="HRW-_dvOOKM905sK-crj-475">
