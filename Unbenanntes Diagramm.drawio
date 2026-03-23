@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="22047" dy="1070" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="22590" dy="1362" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4392,7 +4392,7 @@
         <mxCell id="MACXQoEyBi06QYHdeWUr-3" edge="1" parent="1" source="MACXQoEyBi06QYHdeWUr-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="ceePMe6qGGjEuucbC4I4-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MACXQoEyBi06QYHdeWUr-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="führt" vertex="1">
+        <mxCell id="MACXQoEyBi06QYHdeWUr-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="liefert" vertex="1">
           <mxGeometry height="80" width="80" x="-9781" y="772.5" as="geometry" />
         </mxCell>
         <mxCell id="MACXQoEyBi06QYHdeWUr-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
