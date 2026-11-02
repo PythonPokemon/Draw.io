@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="22372" dy="1299" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="21764" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3697,7 +3697,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xf31oleB631b7a_xQ8Or-10" parent="xf31oleB631b7a_xQ8Or-8" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="xf31oleB631b7a_xQ8Or-10" parent="xf31oleB631b7a_xQ8Or-8" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3710,7 +3710,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xf31oleB631b7a_xQ8Or-13" parent="xf31oleB631b7a_xQ8Or-11" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Projekte_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="xf31oleB631b7a_xQ8Or-13" parent="xf31oleB631b7a_xQ8Or-11" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Projekte_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3923,7 +3923,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xf31oleB631b7a_xQ8Or-74" parent="xf31oleB631b7a_xQ8Or-72" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Projekte_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="xf31oleB631b7a_xQ8Or-74" parent="xf31oleB631b7a_xQ8Or-72" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Projekte_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
