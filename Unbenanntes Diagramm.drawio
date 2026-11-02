@@ -1598,7 +1598,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-346" parent="HRW-_dvOOKM905sK-crj-344" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Produkt_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-346" parent="HRW-_dvOOKM905sK-crj-344" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Produkt_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1611,7 +1611,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-352" parent="HRW-_dvOOKM905sK-crj-350" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-352" parent="HRW-_dvOOKM905sK-crj-350" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung :&amp;nbsp;VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1624,7 +1624,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-355" parent="HRW-_dvOOKM905sK-crj-353" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px; text-align: center;&quot;&gt;Artikelnummer&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-355" parent="HRW-_dvOOKM905sK-crj-353" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: center;&quot;&gt;&lt;font&gt;Artikelnummer :&amp;nbsp;VARCHAR()&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1656,7 +1656,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-363" parent="HRW-_dvOOKM905sK-crj-361" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstrasse_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-363" parent="HRW-_dvOOKM905sK-crj-361" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstrasse_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1669,7 +1669,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-366" parent="HRW-_dvOOKM905sK-crj-364" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Produkt_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-366" parent="HRW-_dvOOKM905sK-crj-364" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Produkt_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1682,7 +1682,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-369" parent="HRW-_dvOOKM905sK-crj-367" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Kürzel" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-369" parent="HRW-_dvOOKM905sK-crj-367" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Kürzel :&amp;nbsp;VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1695,7 +1695,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-372" parent="HRW-_dvOOKM905sK-crj-370" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-372" parent="HRW-_dvOOKM905sK-crj-370" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung :&amp;nbsp;VARCHAR" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1730,7 +1730,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-380" parent="HRW-_dvOOKM905sK-crj-378" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-380" parent="HRW-_dvOOKM905sK-crj-378" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1743,7 +1743,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-383" parent="HRW-_dvOOKM905sK-crj-381" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstrasse_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-383" parent="HRW-_dvOOKM905sK-crj-381" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstrasse_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1756,7 +1756,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-386" parent="HRW-_dvOOKM905sK-crj-384" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Kürzel" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-386" parent="HRW-_dvOOKM905sK-crj-384" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Kürzel :&amp;nbsp;VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1769,7 +1769,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-389" parent="HRW-_dvOOKM905sK-crj-387" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-389" parent="HRW-_dvOOKM905sK-crj-387" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung : VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1798,7 +1798,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-397" parent="HRW-_dvOOKM905sK-crj-395" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Maschine_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-397" parent="HRW-_dvOOKM905sK-crj-395" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Maschine_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1811,7 +1811,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-400" parent="HRW-_dvOOKM905sK-crj-398" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-400" parent="HRW-_dvOOKM905sK-crj-398" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1824,7 +1824,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-403" parent="HRW-_dvOOKM905sK-crj-401" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-403" parent="HRW-_dvOOKM905sK-crj-401" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Bezeichnung : VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1837,7 +1837,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-406" parent="HRW-_dvOOKM905sK-crj-404" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Anlagennummer" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-406" parent="HRW-_dvOOKM905sK-crj-404" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Anlagennummer : Int" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1866,7 +1866,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-414" parent="HRW-_dvOOKM905sK-crj-412" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-414" parent="HRW-_dvOOKM905sK-crj-412" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1879,7 +1879,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-417" parent="HRW-_dvOOKM905sK-crj-415" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-417" parent="HRW-_dvOOKM905sK-crj-415" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Fertigungsstation_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1892,7 +1892,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-420" parent="HRW-_dvOOKM905sK-crj-418" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Vorname" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-420" parent="HRW-_dvOOKM905sK-crj-418" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Vorname : VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1905,7 +1905,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-423" parent="HRW-_dvOOKM905sK-crj-421" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Nachname" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-423" parent="HRW-_dvOOKM905sK-crj-421" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Nachname : VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1918,7 +1918,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-426" parent="HRW-_dvOOKM905sK-crj-424" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Personalnummer" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-426" parent="HRW-_dvOOKM905sK-crj-424" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Personalnummer : VARCHAR()" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1940,7 +1940,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-431" parent="HRW-_dvOOKM905sK-crj-429" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-431" parent="HRW-_dvOOKM905sK-crj-429" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Mitarbeiter_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -1953,7 +1953,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRW-_dvOOKM905sK-crj-434" parent="HRW-_dvOOKM905sK-crj-432" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Maschine_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="HRW-_dvOOKM905sK-crj-434" parent="HRW-_dvOOKM905sK-crj-432" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Maschine_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
