@@ -3275,7 +3275,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-367" parent="ceePMe6qGGjEuucbC4I4-365" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Kunde_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-367" parent="ceePMe6qGGjEuucbC4I4-365" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Kunde_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3288,7 +3288,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-370" parent="ceePMe6qGGjEuucbC4I4-368" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Geldinstitut_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-370" parent="ceePMe6qGGjEuucbC4I4-368" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Geldinstitut_ID : INt&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3301,7 +3301,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-373" parent="ceePMe6qGGjEuucbC4I4-371" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="-" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-373" parent="ceePMe6qGGjEuucbC4I4-371" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Vorname : VARCHAR(50)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3314,7 +3314,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-376" parent="ceePMe6qGGjEuucbC4I4-374" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="-" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-376" parent="ceePMe6qGGjEuucbC4I4-374" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&amp;nbsp;Nachname : VARCHAR(50)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3327,7 +3327,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-379" parent="ceePMe6qGGjEuucbC4I4-377" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="-" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-379" parent="ceePMe6qGGjEuucbC4I4-377" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Adresse : VARCHAR(150)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3343,7 +3343,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-383" parent="ceePMe6qGGjEuucbC4I4-381" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Tarif_ID&lt;/span&gt;" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-383" parent="ceePMe6qGGjEuucbC4I4-381" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Tarif_ID : Int&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3369,7 +3369,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-389" parent="ceePMe6qGGjEuucbC4I4-387" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="-" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-389" parent="ceePMe6qGGjEuucbC4I4-387" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Standardtarif : DECIMAL(10,2),&amp;nbsp;&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3382,7 +3382,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-392" parent="ceePMe6qGGjEuucbC4I4-390" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="-" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-392" parent="ceePMe6qGGjEuucbC4I4-390" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Premiumtarif : DECIMAL(10,2)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3437,7 +3437,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-405" parent="ceePMe6qGGjEuucbC4I4-403" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Girokonto: Varchar" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-405" parent="ceePMe6qGGjEuucbC4I4-403" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Girokonto : Varchar(50)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
@@ -3450,7 +3450,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ceePMe6qGGjEuucbC4I4-408" parent="ceePMe6qGGjEuucbC4I4-406" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Firmenname: Varchar" vertex="1">
+        <mxCell id="ceePMe6qGGjEuucbC4I4-408" parent="ceePMe6qGGjEuucbC4I4-406" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#0F8B8D;fontColor=#143642;labelBackgroundColor=none;" value="Firmenname : Varchar(50)" vertex="1">
           <mxGeometry height="30" width="218.46305338541652" x="30" as="geometry">
             <mxRectangle height="30" width="218.46305338541652" as="alternateBounds" />
           </mxGeometry>
